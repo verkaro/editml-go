@@ -11,7 +11,7 @@ This library was initially developed for use in projects like Pivot3, an interac
 ## Current Status
 
   * **MVP (Minimum Viable Product)**
-  * Supports a functional subset of [EditML Specification v2.5](EditML-Spec-v2.5.md).
+  * Supports a functional subset of [EditML Specification v2.5](docs/EditML-Spec-v2.5.md).
   * Primary output profile implemented: "Clean View".
 
 ## Features (MVP)
